@@ -1,0 +1,26 @@
+{
+    "name": "wxxiong6/tree",
+    "description": "tree data 手写一波策略模式",
+   "keywords": [
+    "tree",
+    "策略模式",
+    "tree-data"
+  ],
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "stonespring",
+            "email": "123376536@qq.com"
+        }
+    ],
+    "require": {
+        
+        "php": ">=5.4"
+    },
+     "license": "Stone",
+     "autoload": {
+            "psr-4": {
+                "stone\\": "src/"
+            }
+        }
+}
